@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace pConstructors
 {
-    public class Start//
+    public class Start
     {
         static void Named(int a, int b)//named parameters
         {
